@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1016628992908",
+    "firebase_url": "https://operjek-b1e03.firebaseio.com",
+    "project_id": "operjek-b1e03",
+    "storage_bucket": "operjek-b1e03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016628992908:android:70aa9ef24d5b6ef70a54a9",
+        "android_client_info": {
+          "package_name": "com.operjek.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016628992908-gevu2facqp8g23a3jc2pjobn89u1utsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.operjek.customer",
+            "certificate_hash": "959bb13df702fd18afdd3d9ac5948cc847874669"
+          }
+        },
+        {
+          "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2mJmeduFM5KxtMNoJupbYYogXXAjoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016628992908:android:afb857e93c7767d10a54a9",
+        "android_client_info": {
+          "package_name": "com.operjek.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016628992908-lhlb8ervkd6sbno1pll8dvnonuc3qki8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.operjek.driver",
+            "certificate_hash": "959bb13df702fd18afdd3d9ac5948cc847874669"
+          }
+        },
+        {
+          "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2mJmeduFM5KxtMNoJupbYYogXXAjoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016628992908:android:3aa83fe0261607fa0a54a9",
+        "android_client_info": {
+          "package_name": "com.operjek.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016628992908-qee69ra16rj26j469ndsgl4df98mma8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.operjek.merchant",
+            "certificate_hash": "959bb13df702fd18afdd3d9ac5948cc847874669"
+          }
+        },
+        {
+          "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2mJmeduFM5KxtMNoJupbYYogXXAjoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016628992908-s4i4tb28c93o8rf44ctaj44clm3rfqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
